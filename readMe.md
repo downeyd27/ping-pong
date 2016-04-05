@@ -14,3 +14,8 @@ divisible by 3 and 5._
 ## Technologies Used
 
 -Java
+
+## License
+
+*MIT*
+Copyright (c) 2016 **_DD_**
